@@ -206,7 +206,6 @@ def hears():
 
     if "challenge" in slack_event:
         return make_response(slack_event["challenge"], 200, {"content_type":
-                                                             "application/json"
                                                             })
 
     if slack_verification != slack_event.get("token"):
