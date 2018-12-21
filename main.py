@@ -11,7 +11,7 @@ import datetime
 from bs4 import BeautifulSoup
 from slackclient import SlackClient
 from flask import Flask, request, make_response, render_template
-from py3 import load,recommend
+from menu import load,recommend
 
 app = Flask(__name__)
 
