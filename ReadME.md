@@ -15,20 +15,25 @@ Beautiful Soup
 ---
 
 ## How to Use?
-### Server
-<pre>
-1) 아야어여오요우유으이
-2) <img>![i](/picture/1.png)</img>
-</pre>
 
-### User
-<pre>
-1) 말을 적어보면 작아지는...?
-2) 
-</pre>
+* 날짜 + A or B + 식단
+
+    <img>![i](/picture/1.png)</img>
+
+ * 오늘/내일/모레 + A or B + 식단
+
+    <img>![i](/picture/3.png)</img>
+
+ * 날짜 or 오늘/내일/모레 + 먹을까요?
+
+    <img>![i](/picture/4.png)</img>
+
 ---
 ## DEV INTRO
 * Kral Choi
 * HaeIn Oh
   
+---
+
 ## Comments
+* Bot을 만들면서 즐거웠습니다. 짧은 시간이었지만 이것저것 구현할 수 있었습니다. 이용해 주셔서 감사합니다.  -YOU DIE-
