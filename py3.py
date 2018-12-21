@@ -3,7 +3,6 @@ import datetime
 
 from bs4 import BeautifulSoup
 from openpyxl import load_workbook
-
 #10~,5~9
 
 def load(name,date,a):

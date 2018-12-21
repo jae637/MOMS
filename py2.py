@@ -31,7 +31,6 @@ elice_sample['text'] = "본문 텍스트가 5줄이 넘어가면 show more로 �
 # 크롤링 함수 구현하기
 def _crawl_naver_keywords(text):
     
-    #여기에 함수를 구현해봅시다    
     keywords =[]
 
     text = text.upper()
@@ -207,7 +206,6 @@ def hears():
 
     if "challenge" in slack_event:
         return make_response(slack_event["challenge"], 200, {"content_type":
-                                                             "application/json"
                                                             })
 
     if slack_verification != slack_event.get("token"):
